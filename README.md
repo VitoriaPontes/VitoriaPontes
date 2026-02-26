@@ -17,8 +17,9 @@ Sou apaixonada por dados, aprendizado de máquina e soluções que combinam esta
 | Projeto | Descrição | Tecnologias/Bibliotecas |
 |--------|-----------|-------------|
 | [Análise de Aplicativos da Playstore](https://github.com/VitoriaPontes/Compass-UOL-D-A/tree/main/Sprint%202/Desafio) | Este projeto explora um banco de dados de aplicativos da Playstore e faz uma análise dos dados, com foco no entendimento dos dados. | Python, Pandas, Matplotlib |
-| [Análise de Filmes da Dreamworks](https://github.com/VitoriaPontes/Analise_Dreamworks) | Esse projeto é voltado para a criação de um Data WareHouse na nuvem AWS, seguindo as etapas de ETL, e o desenvolvimento de um dashboard relacionando os dados de filmes de animação e aventura desse estúdio. | Python, Docker, AWS Cloud: S3, Athena e QuickSight |
+| [Análise de Filmes da Dreamworks](https://github.com/VitoriaPontes/Analise_Dreamworks) | Este projeto é voltado para a criação de um Data WareHouse na nuvem AWS, seguindo as etapas de ETL, e o desenvolvimento de um dashboard relacionando os dados de filmes de animação e aventura desse estúdio. | Python, Docker, AWS Cloud: S3, Athena e QuickSight |
 | [Predição de Notas de K-Dramas](https://github.com/VitoriaPontes/KDramaRating) | Este projeto explora a predição da nota média de K-Dramas a partir de dados obtidos no MyDramaList. Foram aplicadas técnicas de aprendizado supervisionado para modelar a percepção do público com base em atributos como gêneros, elenco principal, número de episódios e duração. | Python, Scikit-learn, pgmpy |
+| [Normalização e Modelagem de um Banco de Dados](https://github.com/VitoriaPontes/Compass-UOL-D-A/tree/main/Sprint%201/Desafio) | Este projeto aborda a modelagem relacional e dimensional a partir de uma base de dados não normalizada, utilizando a ferramenta DBeaver. | MySQL |
 
 ---
 
